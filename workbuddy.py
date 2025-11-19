@@ -37,7 +37,7 @@ def coletar_registros():
 
 def criar_dataframe(registros):
     df = pd.DataFrame(registros)
-    print("\n=== DataFrame Criado ===")
+    print("\n DataFrame ")
     print(df)
     return df
 
@@ -46,7 +46,7 @@ def criar_dataframe(registros):
 
 
 def relatorio_simples(df):
-    print("\n=== RELATÓRIO SIMPLES ===")
+    print("\n RELATÓRIO SIMPLES ")
     print(f"Total de sessões registradas: {len(df)}")
     print(f"Total de minutos registrados: {df['Duracao'].sum()} min")
     print(f"Média de bem-estar: {df['Bem_Estar'].mean():.2f}")
@@ -77,7 +77,7 @@ def relatorio_avancado(df):
     media = media_bem_estar()
     status = avaliar_status(media)
 
-    print("\n === RELATÓRIO AVANÇADO ===")
+    print("\n RELATÓRIO AVANÇADO ")
     print(f"Total de minutos registrados: {minutos} min")
     print(f"Média geral de bem-estar: {media:.2f}")
     print(f"Status geral: {status}")
