@@ -6,7 +6,7 @@ O sistema registra atividades como pausas, pomodoro, alongamento e foco, gerando
 
 ---
 
-## ✅ Funcionalidades
+## Funcionalidades
 - Entrada de dados do usuário  
 - Registro de múltiplas atividades  
 - Organização dos dados em DataFrame  
@@ -18,7 +18,7 @@ O sistema registra atividades como pausas, pomodoro, alongamento e foco, gerando
 
 ---
 
-## 🧱 Tecnologias utilizadas
+## Tecnologias utilizadas
 - Python  
 - VSCode  
 - Pandas  
@@ -26,7 +26,7 @@ O sistema registra atividades como pausas, pomodoro, alongamento e foco, gerando
 
 ---
 
-## 🎯 Sobre o projeto
+## Sobre o projeto
 Projeto desenvolvido para a **Global Solution – FIAP 2025**, aplicando:
 entrada, saída, repetição, condição, funções, função dentro de função e DataFrame.
 
