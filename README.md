@@ -1,4 +1,5 @@
-# 🌟 WorkBuddy
+# <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c241ae65-4b89-4051-9fc7-986c3e6cb835" />
+ WorkBuddy
 
 A **WorkBuddy** é uma solução simples desenvolvida em Python para ajudar profissionais a organizarem melhor sua rotina de trabalho.  
 O sistema registra atividades como pausas, pomodoro, alongamento e foco, gerando relatórios e um gráfico final com o tempo total dedicado a cada tipo de atividade.
